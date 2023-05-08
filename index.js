@@ -11,7 +11,7 @@ const [, ana] = empleados;
 const { email: emailLuis } = empleados[0];
 
 
-//3 TODO
+//3 
 
 const { a = 5, b = 3 } = { a: 3, b: 5 };
 
